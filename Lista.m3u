@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, History Channel
-https://stmv1.srvif.com/history/history/playlist.m3u8
+#EXTINF:-1, History Channel01
+https://srv1.oneplay.com.br/history/index.m3u8
+
 
 #EXTINF:-1, --- LISTA GERAL BRASIL ---
 https://iptv-org.github.io/iptv/countries/br.m3u
