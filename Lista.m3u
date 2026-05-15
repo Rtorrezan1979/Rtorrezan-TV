@@ -1,11 +1,562 @@
-#EXTM3U
-
-#EXTINF:-1, History Channel01
-https://srv1.oneplay.com.br/history/index.m3u8
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz" size="Medium"
 
 
-#EXTINF:-1, --- LISTA GERAL BRASIL ---
-https://iptv-org.github.io/iptv/countries/br.m3u
 
-#EXTINF:-1, History Channel
-https://srv2.oneplay.com.br/history/index.m3u8
+################################################################################# CINE SKY
+
+
+
+#EXTINF:-1 tvg-id="CINE SKY 1" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 1
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83314
+
+
+
+#EXTINF:-1 tvg-id="CINE SKY 2" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 2
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83315
+
+
+
+#EXTINF:-1 tvg-id="CINE SKY 3" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",CINE SKY 3
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83316
+
+
+
+#EXTINF:-1 tvg-id="CINE SKY 4" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 4
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83317
+
+
+
+#EXTINF:-1 tvg-id="CINE SKY 5" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY",Cine SKY 5
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83318
+
+
+
+################################################################################# Abertos
+
+
+
+#EXTINF:-1 tvg-id="SBT.HD.br" tvg-logo="https://prostore.app/logos/sbt.png" group-title="Abertos",SBT SP
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/469477.ts
+
+
+
+#EXTINF:-1 tvg-id="Band.HD.br" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="Abertos",Band
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/644855.ts
+
+
+
+#EXTINF:-1 tvg-id="Band.Paulista.HD.br" tvg-logo="http://i.imgur.com/rK6CsQz.png" group-title="Abertos",Band SP
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604923.ts
+
+
+
+#EXTINF:-1 tvg-id="record.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Abertos",Record Sp
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83468
+
+
+
+################################################################################ Esportes
+
+
+
+#EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-logo="http://i.imgur.com/q92za8a.png" group-title="Esportes",BandSports
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83189
+
+
+
+#EXTINF:-1 tvg-id="Combate.HD.br" tvg-logo="http://i.imgur.com/0DyH3rV.png" group-title="Esportes",Combate
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/608051.ts
+
+
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="Esportes",FOX SPORTS 2 FHD
+
+http://cdn.srvmain.top:80/FernandoVargas/x508315z/5721728.ts
+
+
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="http://i.imgur.com/ck1qmrN.png" group-title="Esportes",ESPN
+
+http://cdn11.cc:80/live/epg/epg/259.ts
+
+
+
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIvZni_iTtvN44SePBs2OVBddm5MTrBUKWM2d_6inX6_EcWCYONcUAqs&s=10" group-title="Esportes",ESPN.2
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/608085.ts
+
+
+
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://static.guiadetv.com/channel/uuZJDw4RNEtG2KZLe7kNNTyxX6jKpNPJDg3yYYis.png" group-title="Esportes",ESPN.3
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83207
+
+
+
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="Esportes",ESPN.4
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83209
+
+
+
+#EXTINF:-1 tvg-id="Premiere.HD.br" tvg-logo="http://xcui.vitvabc.xyz:8880/images/383826fafd73f0beb4722d2eaa78a764.png" group-title="Esportes",Premiere HD
+
+http://oldraindays.net:80/Veron23/Veron2023/493
+
+
+
+#EXTINF:-1 tvg-id="Premiere.HD.br" tvg-logo="http://xcui.vitvabc.xyz:8880/images/383826fafd73f0beb4722d2eaa78a764.png" group-title="Esportes",Premiere HD1
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83251
+
+
+
+#EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-logo="http://xcui.vitvabc.xyz:8880/images/383826fafd73f0beb4722d2eaa78a764.png" group-title="Esportes",Premiere HD2
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/6110.ts
+
+
+
+#EXTINF:-1 tvg-id="Premiere.HD3.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-5-hd_m.png" group-title="Esportes",Premiere HD3
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/147638
+
+
+
+#EXTINF:-1 tvg-id="Premiere.HD4.br" tvg-logo="http://xcui.vitvabc.xyz:8880/images/383826fafd73f0beb4722d2eaa78a764.png" group-title="Esportes",Premiere HD4
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83247
+
+
+
+#EXTINF:-1 tvg-id="Premiere.HD5.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-5-hd_m.png" group-title="Esportes",Premiere HD5
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83605
+
+
+
+#EXTINF:-1 tvg-id="Fish.TV.br" tvg-logo="http://i.imgur.com/Vqfxiyz.png" group-title="Esportes",Fish TV
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/4377.ts
+
+
+
+
+
+################################################################################# Infantil
+
+
+
+#EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-logo="http://i.imgur.com/zhiyQzz.png" group-title="Infantil",Cartoon Network
+
+http://oldraindays.net:80/Veron23/Veron2023/367317
+
+
+
+#EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-logo="http://i.imgur.com/zhiyQzz.png" group-title="Infantil",Cartoon Network HD
+
+http://oldraindays.net:80/Veron23/Veron2023/21230
+
+
+
+#EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-logo="http://i.imgur.com/idY9saN.png" group-title="Infantil",Discovery Kids
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83199
+
+
+
+#EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-logo="http://i.imgur.com/idY9saN.png" group-title="Infantil",Discovery Kids.hd
+
+http://oldraindays.net:80/Veron23/Veron2023/367320
+
+
+
+#EXTINF:-1 tvg-id="Disney.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGaBiTCZIYuLfOCDSLj0QJqh5RCI_kbYi_RRiDsNWKNCt9mNT5MSP_XG_R&s=10" group-title="Infantil",Disney
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/604856.ts
+
+
+
+#EXTINF:-1 tvg-id="Disney.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGaBiTCZIYuLfOCDSLj0QJqh5RCI_kbYi_RRiDsNWKNCt9mNT5MSP_XG_R&s=10" group-title="Infantil",Disney hd
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83545
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sydBue3.png" group-title="Infantil",Retrô Cartoon
+
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="http://i.imgur.com/TRu90uI.png" group-title="Infantil",Tooncast
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/100225.ts
+
+
+
+#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROodrz9OFtdTKbk6ClpDcpsNOZOv5L0fFFpg&s" group-title="Infantil",Nickelodeon.HD
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/608509.ts
+
+
+
+#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROodrz9OFtdTKbk6ClpDcpsNOZOv5L0fFFpg&s" group-title="Infantil",Nickelodeon.HD1
+
+http://gol7990.com:80/live/jorgeluiz77/luizjorge77/608509.ts
+
+
+
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-logo="http://i.imgur.com/h5bVSsb.png" group-title="Infantil",ZooMoo Kids
+
+https://zoomoo-samsungau.amagi.tv:443/playlist.m3u8?PlaylistM3UCL
+
+
+
+################################################################################# Filmes e Series
+
+
+
+#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBs2KuLKULg6RRa0NXIZC33AVLqx5MwgBvqejplqiloyV_jE_nVZvAtdIC&s=10" group-title="Filmes e Séries",Studio Universal
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/97155.ts
+
+
+
+#EXTINF:-1 tvg-id="FX.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmbZEJTi1hjWMwvXcMjsWpe301Oab7hEc9y1Eh4Xi1r_pLlo5DEcSS-PA&s=10" group-title="Filmes e Séries",FX
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83218
+
+
+
+#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-logo="http://i.imgur.com/dFtnUU3.png" group-title="Filmes e Séries",A&E
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83185
+
+
+
+#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-logo="http://i.imgur.com/dFtnUU3.png" group-title="Filmes e Séries",A&E HD
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83521
+
+
+
+#EXTINF:-1 tvg-id="AMC.br" tvg-logo="http://i.imgur.com/6vHnlg7.png" group-title="Filmes e Séries",AMC
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/7691.ts
+
+
+
+#EXTINF:-1 tvg-id="AXN.HD.br" tvg-logo="http://i.imgur.com/RYscAnj.png" group-title="Filmes e Séries",AXN
+
+http://ilookdbronx.megatv.fun/get.php?username=AXHH3VQMKD3N6PY95T2VTL8E&password=6163&type=m3u
+
+
+
+#EXTINF:-1 tvg-logo="Classique" tvg-logo="http://i.imgur.com/IiAxLai.png" group-title="Filmes e Séries",Classique TV
+
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" group-title="Filmes e Séries",Cinemax
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/7802.ts
+
+
+
+#EXTINF:-1 tvg-id="Megapix.HD.br" tvg-logo="http://i.imgur.com/Xlf6PBQ.png" group-title="Filmes e Séries",Megapix
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/147608
+
+
+
+#EXTINF:-1 tvg-id="Megapix.HD.br" tvg-logo="http://i.imgur.com/Xlf6PBQ.png" group-title="Filmes e Séries",Megapix FHD
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83585
+
+
+
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNnzdnv2iGZxIyxv3Z4NTkBGFwu6kufaouwl9gpaLoWH7pDZaIss4brQ&s=10" group-title="Filmes e Séries",Warner Tv
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/6072.ts
+
+
+
+#EXTINF:-1 tvg-id="Sony.HD.br" tvg-logo="http://i.imgur.com/b4Z8dd0.png" group-title="Filmes e Séries",Sony
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83191
+
+
+
+#EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-logo="http://fivetv.xyz:80/logos/paramount.png" group-title="Filmes e Séries",Paramount
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83244
+
+
+
+#EXTINF:-1 tvg-id="Space.HD.br" tvg-logo="http://i.imgur.com/GgNR6Ut.png" group-title="Filmes e Séries",Space
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83254
+
+
+
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="Filmes e Séries",Star Channel
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/608215.ts
+
+
+
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="Filmes e Séries",Star Channel01
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83558
+
+
+
+#EXTINF:-1 tvg-id="HBO.HD.br" tvg-logo="https://logospng.org/download/hbo/hbo-4096.png" group-title="Filmes e Séries",HBO FHD
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/6108.ts
+
+
+
+#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HBO_2_HD_Logo_Poland.png/640px-HBO_2_HD_Logo_Poland.png" group-title="Filmes e Séries",HBO2 FHD
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/147583
+
+
+
+#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-a4EWqxzpwaNkZHOkukVSPK-fSBCpQo9cWg&usqp=CAU" group-title="Filmes e Séries",HBO2 
+
+http://dns.idealtv.xyz:80/live/zaqueu/zaqueu123/5140465.ts
+
+
+
+#EXTINF:-1 tvg-id="HBO.Family.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh97cZdZ30LdcxkCpyXIE2aMpdaag2zl7sR7wReQkPFe-3wG1fX56CVQU&s=10" group-title="Filmes e Séries",HBO Family HD
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83224
+
+
+
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-logo="http://i.imgur.com/QE899aV.png" group-title="Filmes e Séries",Telecine Action
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83630
+
+
+
+#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Telecine_Fun.png" group-title="Filmes e Séries",Telecine Fun
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/4318.ts
+
+
+
+#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bXAY2DXOR9W4LOEV0OOeegt7Sr85gNsFb2Shcs8TbsRxNk0Oq2v0Tm76&s=10" group-title="Filmes e Séries",Telecine Premium
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83634
+
+
+
+#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bXAY2DXOR9W4LOEV0OOeegt7Sr85gNsFb2Shcs8TbsRxNk0Oq2v0Tm76&s=10" group-title="Filmes e Séries",Telecine Premium.hd
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/6077.ts
+
+
+
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-logo="https://iconape.com/wp-content/files/ld/284920/svg/telecine-cult-logo-logo-icon-png-svg.png" group-title="Filmes e Séries",Telecine Cult
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/4319.ts
+
+
+
+#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmf42H9MB-4Q6lyVfrh77qPeG4KFri1nICyg&usqp=CAU" group-title="Filmes e Séries",Telecine Touch HD
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/100576.ts
+
+
+
+#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TC_Pipoca.png/revision/latest?cb=20160228233324" group-title="Filmes e Séries",Telecine Pipoca
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83264
+
+
+
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-logo="http://i.imgur.com/RSGqIKS.png" group-title="Filmes e Séries",TNT hd
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83268
+
+
+
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-logo="http://i.imgur.com/RSGqIKS.png" group-title="Filmes e Séries",TNT
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83638
+
+
+
+################################################################################# BBB25
+
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-1.png" group-title="BBB25",MOSAICO
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/680035.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-1.png" group-title="BBB25",CAM1
+
+http://sinalprivado.info:80/live/604210250/C246W5389Z/11000.ts
+
+
+
+################################################################################# 24 Horas
+
+
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="24 Horas",Mega Man
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/624960.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="24 Horas",24h Jackie Chan e Amigos
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/470020.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7n6ZXjb.png" group-title="24 Horas",Os Jetsons
+
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="24 Horas",24h Bob Esponja
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/140950
+
+
+
+################################################################################# Documentários
+
+
+
+#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-logo="http://i.imgur.com/wpofgHZ.png" group-title="Documentários",Animal Planet
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83187
+
+
+
+#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-logo="http://i.imgur.com/wpofgHZ.png" group-title="Documentários",Animal Planet.1
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83523
+
+
+
+#EXTINF:-1 tvg-id="Arte.1.HD.br" tvg-logo="http://i.imgur.com/QHM4UO4.png" group-title="Documentários",Arte 1
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/150162
+
+
+
+#EXTINF:-1 tvg-id="Arte.1.HD.br" tvg-logo="http://i.imgur.com/QHM4UO4.png" group-title="Documentários",Arte
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/150162
+
+
+
+#EXTINF:-1 tvg-id="Curta!.br" tvg-logo="http://i.imgur.com/g9AtH3s.png" group-title="Documentários",Curta!
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/162809
+
+
+
+#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-logo="http://i.imgur.com/OZNnpEM.png" group-title="Documentários",Discovery Channel
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83196
+
+
+
+#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-logo="http://i.imgur.com/OZNnpEM.png" group-title="Documentários",Discovery Channel 1
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83196
+
+
+
+#EXTINF:-1 tvg-id="Discovery.Science.HD.br" tvg-logo="http://i.imgur.com/4Wfs9kj.png" group-title="Documentários",Discovery Science
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83200
+
+
+
+#EXTINF:-1 tvg-id="Discovery.Theater.br" tvg-logo="http://i.imgur.com/ZO3vSc7.png" group-title="Documentários",Discovery Theater
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/97188.ts
+
+
+
+#EXTINF:-1 tvg-id="Discovery.World.br" tvg-logo="http://i.imgur.com/HD0mvvi.png" group-title="Documentários",Discovery World
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83203
+
+
+
+#EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-logo="http://i.imgur.com/sdZOfEg.png" group-title="Documentários",Discovery Home & Health
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83542
+
+
+
+#EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-logo="http://i.imgur.com/sdZOfEg.png" group-title="Documentários",Discovery Home & Health.HD
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83198
+
+
+
+#EXTINF:-1 tvg-id="History.HD.br" tvg-logo="http://i.imgur.com/j9gMYGr.png" group-title="Documentários",History
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/97247.ts
+
+
+
+#EXTINF:-1 tvg-id="History.HD.br" tvg-logo="http://i.imgur.com/j9gMYGr.png" group-title="Documentários",History HD
+
+http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/97247.ts
+
+
+
+#EXTINF:-1 tvg-id="History.2.br" tvg-logo="http://i.imgur.com/Wg2Tuao.png" group-title="Documentários",History 2
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/147581
+
+
+
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-logo="http://i.imgur.com/ulFnrkz.png" group-title="Documentários",Investigação Discovery
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/147508
+
+
+
+################################################################################# Entredimento
+
+
+
+#EXTINF:-1 tvg-id="Viva.HD.br" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/e/e8/Canal_Viva_logo.png/revision/latest?cb=20230129144730" group-title="Entredimento",VIVA
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83276
+
+
+
+#EXTINF:-1 tvg-id="Multishow.HD.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmn0CLQij9II8xq84ci9kbHag05cs4FCfwmA&s" group-title="Entredimento",Multishow
+
+http://bgp01.scoutpremiere.me:80/WV8qjG/W3NzNG/83237
+
