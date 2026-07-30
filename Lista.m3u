@@ -1,6 +1,13 @@
-
-
 #EXTM3U
 
-#EXTINF:-1 group-title="Filmes", Cinemax HD
-https://srv1.canaistv.my/hls/cinemax.m3u8
+#EXTINF:-1 group-title="Abertos", TV Brasil HD
+https://ebc-tvbrasil.estreaming.com.br/hls/tvbrasil/main.m3u8
+
+#EXTINF:-1 group-title="Jornalismo", Record News HD
+https://recordnews-r7-kinescope.akamaized.net/hls/live/2026111/recordnews/master.m3u8
+
+#EXTINF:-1 group-title="Cultura", TV Cultura HD
+https://cultura.estreaming.com.br/hls/tvcultura/main.m3u8
+
+#EXTINF:-1 group-title="Esportes", BandSports (Transmissão Aberta/Web)
+https://d2e1asnsl7m37z.cloudfront.net/out/v1/0b5a37f2879e49c7921a97df1a31d1eb/index.m3u8
