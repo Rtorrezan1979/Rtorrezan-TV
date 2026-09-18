@@ -3,4 +3,4 @@
 rtsp://admin:Selma1985@@192.168.15.88:554/onvif1
 
 #EXTINF:-2 tvg-id="Cam1",Câmara Rua kodi
-rtsp://admin:sdcastro1985@192.168.15.88:554/onvif1|KodiOption=rtsp_transport&KodiOptionValue=tcp
+rtsp://admin:Selma1985@@@192.168.15.88:554/onvif1|KodiOption=rtsp_transport&KodiOptionValue=tcp
